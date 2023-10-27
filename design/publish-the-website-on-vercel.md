@@ -1,8 +1,10 @@
+
 # Publish the website on Vercel
 
-codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
+---
+description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
+---
 
-***
 
 Publishing a project on Vercel is a straightforward process. Here's a step-by-step guide for beginners to deploy a website using Vercel:
 

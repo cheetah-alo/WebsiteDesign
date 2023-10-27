@@ -2,6 +2,7 @@
 
 Design a minimalist website
 
+
 <div id="header" align="center">
   <figure><img src="https://github.com/cheetah-alo/FaucetAppEthereum/assets/51385472/45416c68-5512-4d6e-98d7-6f5e0db36ffe" alt="" width="100"><figcaption></figcaption></figure>
 </div>
@@ -25,5 +26,4 @@ Design a minimalist website
 This project is a part of the curriculum for the "FromWeb2toWeb3 Blockchain Eng. Master" course offered by [CodeCrypto Academy](https://codecrypto.academy/).
 
 This repository contains instructions and code for setting up a basic company website.
-
 

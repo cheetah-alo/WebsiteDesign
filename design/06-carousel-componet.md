@@ -1,8 +1,11 @@
+
 # 06 Carousel Componet
 
-codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
-***
+=======
+---
+description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
+---
 
 ## Creating the Footer Component
 
@@ -115,10 +118,11 @@ export function Carousel() {
 
 ```
 
+
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-27 at 11.36.15 PM.png" alt=""><figcaption></figcaption></figure>
 
-####
 
+=======
 #### Customize and Style
 
 1. Customize the appearance of your website using Bootstrap classes and CSS.

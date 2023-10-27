@@ -1,0 +1,113 @@
+{
+  "header": {
+    "name": "MyCompany",
+    "links": [
+      {
+        "text": "blog",
+        "link": "http://blog.com"
+      },
+      {
+        "text": "youtube",
+        "link": "http://youtube.com"
+      }
+    ]
+  },
+  "carousel": [
+    {
+      "text": "Looking for an asset",
+      "url": "./src/assets/images/pic1.jpg",
+      "alt": "random"
+    },
+    {
+      "text": "Expand your limits",
+      "url": "./src/assets/images/pic2.jpg",
+      "alt": "random"
+    },
+    {
+      "text": "Make growth your knowledge and portafolio",
+      "url": "./src/assets/images/pic3.jpg",
+      "alt": "random"
+    }
+  ],
+  "prices": [
+    {
+      "title": "Free",
+      "price": "$0",
+      "by": "month",
+      "textBoton": "Sing up for free",
+      "features": ["10 user included", "2GB", "eMail", "Help center crypto"]
+    },
+    {
+      "title": "Pro",
+      "price": "$15",
+      "by": "month",
+      "textBoton": "Sing up",
+      "features": ["20 user included", "10GB", "Priority eMail", "Help center"]
+    },
+    {
+      "title": "Enterprice",
+      "price": "$25",
+      "by": "month",
+      "textBoton": "Sing up",
+      "features": [
+        "30 user included",
+        "15GB",
+        "Phone Support",
+        "Help center access"
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "title": "Social",
+      "links": [
+        {
+          "title": "youtube",
+          "url": "http://youtube.com"
+        },
+        {
+          "title": "instagram",
+          "url": "http://instagram.com"
+        },
+        {
+          "title": "twitter",
+          "url": "http://twitter.com"
+        }
+      ]
+    },
+    {
+      "title": "About Us",
+      "links": [
+        {
+          "title": "History",
+          "url": "http://companyhistory.com"
+        },
+        {
+          "title": "Founders",
+          "url": "http://companyfounders.com"
+        },
+        {
+          "title": "Team",
+          "url": "http://companyteam.com"
+        }
+      ]
+    },
+    {
+      "title": "Help",
+      "links": [
+        {
+          "title": "Contact",
+          "url": "http://companyemail.com"
+        },
+        {
+          "title": "Privacy",
+          "url": "http://privacy.com"
+        },
+        {
+          "title": "Terms and Conditions",
+          "url": "http://termsandconditions.com"
+        }
+      ]
+    }
+  ]
+}
