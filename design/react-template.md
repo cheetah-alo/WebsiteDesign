@@ -1,8 +1,6 @@
----
-description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
----
-
 # React Template
+
+codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
 ## Create a React Project
 

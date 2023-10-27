@@ -2,6 +2,7 @@
 
 * [WebsiteDesign](README.md)
 * [Design](design/README.md)
+  * [Project Requirements](design/project-requirements.md)
   * [React Template](design/react-template.md)
   * [01 Home Component](design/01-home-component.md)
   * [02 Header Component](design/02-header-component.md)

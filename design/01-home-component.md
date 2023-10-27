@@ -1,8 +1,6 @@
----
-description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
----
-
 # 01 Home Component
+
+codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
 ## Creating the Home Component
 
