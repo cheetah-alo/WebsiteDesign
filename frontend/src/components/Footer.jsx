@@ -32,9 +32,9 @@ function Section({ data }) {
  */
 export function Footer() {
   return (
-    <div className="d-flex justify-content-between">
+    <div className="d-flex justify-content-between mx-3">
       {/* Website Name */}
-      <div className="fs-4 mt-3">{datos.header.name}</div>
+      <div className="fs-4">{datos.header.name}</div>
       {/* Sections with Links */}
       {datos.footer.map((item, index) => (
         <Section key={index} data={item}></Section>
