@@ -1,2 +1,7 @@
 # WebsiteDesign
-Design a minimalist website 
+
+Design a minimalist website
+
+
+
+npm run dev
