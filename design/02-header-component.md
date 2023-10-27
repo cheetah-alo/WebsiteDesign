@@ -1,14 +1,12 @@
-
 # 02 Header Component
 
+> codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
-=======
----
-description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
----
+***
 
+###
 
-## Creating the Header Component&#x20;
+### Creating the Header Component
 
 1. Find or create an SVG logo for your website. The following website is a good place to search:
 
@@ -46,7 +44,7 @@ export function Header() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 4. Style the header with Bootstrap classes and add links for "Blog" and "Youtube."
 
@@ -89,9 +87,9 @@ export function Header() {
    * `mx-3` adds horizontal margin (margin on both left and right sides) of 3 units of spacing. It creates spacing between this link and nearby elements.
    * `text-decoration-none` removes the default underline decoration from the link text, making it appear without an underline.
 
-These Bootstrap utility classes make it easy to style and format HTML elements in a consistent and responsive way. They are part of Bootstrap's CSS framework and help streamline the styling process, especially when working on responsive web designs. For more information visit the Bootststrap website.&#x20;
+These Bootstrap utility classes make it easy to style and format HTML elements in a consistent and responsive way. They are part of Bootstrap's CSS framework and help streamline the styling process, especially when working on responsive web designs. For more information visit the Bootststrap website.
 
-## Utilize Data from JSON to bring content to the components
+### Utilize Data from JSON to bring content to the components
 
 1. Create a JSON file named `datos.json` to store data for the header and footer sections.
 2. Define the structure of the JSON file, including your website's name and links.
@@ -114,7 +112,7 @@ These Bootstrap utility classes make it easy to style and format HTML elements i
 }
 ```
 
-1. Import the `datos.json` file into the components where datos will be used, on this case in  `Header.jsx` file.
+1. Import the `datos.json` file into the components where datos will be used, on this case in `Header.jsx` file.
 2. Replace static content in your components with data from the JSON file, ensuring dynamic rendering using a array `.map.`
 
 ```javascript

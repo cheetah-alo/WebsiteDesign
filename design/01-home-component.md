@@ -1,12 +1,12 @@
-
 # 01 Home Component
 
-codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
+> codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
+
+***
 
 
 
-
-## Creating the Home Component
+### Creating the Home Component
 
 1. Create a folder on the path /src called components
 2. Create a new file called `Home.jsx to build the component`.

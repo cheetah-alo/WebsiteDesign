@@ -1,16 +1,10 @@
-
-
 # 03 Footer Component
 
-=======
----
-description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
----
+> codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
+### Creating the Footer Component
 
-## Creating the Footer Component&#x20;
-
-1. Create the footer to check the design&#x20;
+1. Create the footer to check the design
 
 ```javascript
 export function Footer() {
@@ -52,7 +46,7 @@ export function Footer() {
       </div>
 ```
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 3. Add `className="nav flex-column"` to get the info on columns
 
@@ -83,7 +77,7 @@ export function Footer() {
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-## Utilize Data from JSON to bring content to the components
+### Utilize Data from JSON to bring content to the components
 
 4. Define the structure of the footer section in your `datos.json` file, including sections like "Social," "About Us," and "Help."
 
@@ -181,7 +175,7 @@ export function Footer() {
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-#### Customize and Style
+### Customize and Style
 
 1. Customize the appearance of your website using Bootstrap classes and CSS.
 2. Adjust the styling of components, fonts, and layout as needed.

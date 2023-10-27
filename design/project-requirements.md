@@ -1,22 +1,22 @@
 # Project Requirements
 
-codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
+> codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
 ***
 
-## Objective
+### Objective
 
 1. Create a minimalist website using the Bootstrap 5 framework.
 2. Utilize the React framework to build the web pages.
 3. Make use of Bootstrap components.
 
-## Target Design
+### Target Design
 
 Here a look of how is expected the website composition.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-27 at 2.08.08 PM.png" alt=""><figcaption></figcaption></figure>
 
-## Tasks
+### Tasks
 
 1. Create a React project.
 2. Clean up the project.

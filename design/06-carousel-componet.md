@@ -1,13 +1,10 @@
-
 # 06 Carousel Componet
 
+> codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
-=======
----
-description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
----
+***
 
-## Creating the Footer Component
+### Creating the Footer Component
 
 1. Visit the Bootstrap Carousel documentation page: [Bootstrap Carousel Documentation](https://getbootstrap.com/docs/5.3/components/carousel/)
 2. Find the basic example that looks similar to your design requirements. It should be the code for a carousel with 3 images.
@@ -41,8 +38,6 @@ description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
 8. In the `Carousel.jsx` file, import the JSON data and the images you prepared:
 9. Replace the content of each carousel slide in your `Carousel.jsx` file with a dynamic loop that populates the slides with data from `datos.json`:
-
-
 
 ```javascript
 
@@ -118,12 +113,9 @@ export function Carousel() {
 
 ```
 
-
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-27 at 11.36.15 PM.png" alt=""><figcaption></figcaption></figure>
 
-
-=======
-#### Customize and Style
+### Customize and Style
 
 1. Customize the appearance of your website using Bootstrap classes and CSS.
 2. Adjust the styling of components, fonts, and layout as needed.
