@@ -1,0 +1,73 @@
+/* Reset some default browser styles */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+ol {
+  margin: 3;
+  padding: 0;
+}
+
+/* Apply a background color to the body */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+/* Center content on the page */
+.container {
+  max-width: 1200px;
+  margin: 2 auto;
+  padding: 20px;
+}
+
+/* Style headings */
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+/* Style paragraphs */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+
+/* Style links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Style buttons */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #2e8d51;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0c3519;
+}
+
+/* index.css */
+.carousel-image {
+  width: 300px;
+  height: 200px;
+}

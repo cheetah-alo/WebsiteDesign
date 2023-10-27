@@ -12,6 +12,34 @@
       }
     ]
   },
+  "prices": [
+    {
+      "title": "Free",
+      "price": "$0",
+      "by": "month",
+      "textBoton": "Sing up for free",
+      "features": ["10 user included", "2GB", "eMail", "Help center crypto"]
+    },
+    {
+      "title": "Pro",
+      "price": "$15",
+      "by": "month",
+      "textBoton": "Sing up",
+      "features": ["20 user included", "10GB", "Priority eMail", "Help center"]
+    },
+    {
+      "title": "Enterprice",
+      "price": "$25",
+      "by": "month",
+      "textBoton": "Sing up",
+      "features": [
+        "30 user included",
+        "15GB",
+        "Phone Support",
+        "Help center access"
+      ]
+    }
+  ],
   "footer": [
     {
       "title": "Social",
