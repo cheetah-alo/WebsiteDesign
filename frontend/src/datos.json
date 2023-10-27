@@ -12,6 +12,23 @@
       }
     ]
   },
+  "carousel": [
+    {
+      "text": "Looking for an asset",
+      "url": "./src/assets/images/pic1.jpg",
+      "alt": "random"
+    },
+    {
+      "text": "Expand your limits",
+      "url": "./src/assets/images/pic2.jpg",
+      "alt": "random"
+    },
+    {
+      "text": "Make growth your knowledge and portafolio",
+      "url": "./src/assets/images/pic3.jpg",
+      "alt": "random"
+    }
+  ],
   "prices": [
     {
       "title": "Free",
