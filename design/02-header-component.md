@@ -1,4 +1,4 @@
-# 02 Header Component
+# 03 Header Component
 
 > codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
@@ -70,7 +70,7 @@ export function Header() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Some input about the Bootstrap used:
 

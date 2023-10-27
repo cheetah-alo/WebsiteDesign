@@ -1,4 +1,4 @@
-# 01 Home Component
+# 02 Home Component
 
 > codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
@@ -70,4 +70,4 @@ export function Home() {
 
 ```
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>

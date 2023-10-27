@@ -1,6 +1,8 @@
-# 03 Footer Component
+# 04 Footer Component
 
 > codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
+
+***
 
 ### Creating the Footer Component
 
@@ -31,7 +33,7 @@ export function Footer() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Try the `className=”nav”` to avoid the buble point on the list.
 
@@ -75,7 +77,7 @@ export function Footer() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Utilize Data from JSON to bring content to the components
 
@@ -173,7 +175,7 @@ export function Footer() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Customize and Style
 
