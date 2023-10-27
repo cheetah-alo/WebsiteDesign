@@ -42,7 +42,7 @@ export function Header() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 4. Style the header with Bootstrap classes and add links for "Blog" and "Youtube."
 

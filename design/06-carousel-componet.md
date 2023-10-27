@@ -115,7 +115,7 @@ export function Carousel() {
 
 ```
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-27 at 11.36.15 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-27 at 11.36.15 PM.png" alt=""><figcaption></figcaption></figure>
 
 ####
 

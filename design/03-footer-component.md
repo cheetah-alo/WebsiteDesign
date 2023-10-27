@@ -33,7 +33,7 @@ export function Footer() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 2. Try the `className=”nav”` to avoid the buble point on the list.
 
@@ -48,7 +48,7 @@ export function Footer() {
       </div>
 ```
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 3. Add `className="nav flex-column"` to get the info on columns
 
@@ -77,7 +77,7 @@ export function Footer() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## Utilize Data from JSON to bring content to the components
 
@@ -175,7 +175,7 @@ export function Footer() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 #### Customize and Style
 
