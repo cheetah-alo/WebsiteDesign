@@ -1,8 +1,8 @@
----
-description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
----
+# 05 Prices Components
 
-# 04 Prices Components
+> codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
+
+***
 
 ## Creating the Footer Component
 
@@ -45,7 +45,7 @@ export function Prices() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
 
 3. Add the information to display on the file `datos.json`
 
@@ -114,11 +114,4 @@ export function Prices() {
 
 ```
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-27 at 10.52.35 PM.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-27 at 10.52.35 PM.png" alt="" width="346"><figcaption></figcaption></figure>

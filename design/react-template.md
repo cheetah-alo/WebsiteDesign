@@ -1,10 +1,10 @@
----
-description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
----
-
 # React Template
 
-## Create a React Project
+> codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
+
+***
+
+### Create a React Project
 
 1. Open a terminal in your project directory.
 2.  Create a new React project using the following command:
@@ -31,7 +31,7 @@ description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
     ```
 6. Visit the provided URL in your browser to see the template page.
 
-## Clean Up the Template
+### Clean Up the Template
 
 1. Remove unnecessary project elements.
 2. Remove CSS files or clear the content of `index.css`.
@@ -76,9 +76,9 @@ frontend/
    \
    **Note:** Before including the bootstrap, the letter is as showing on the image below:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Add the Bootstrap 5 code snippet to your `index.html,` select all the code before the closing `</body>` tag  and copy.
+3. Add the Bootstrap 5 code snippet to your `index.html,` select all the code before the closing `</body>` tag and copy.
 
 ```html
 <!DOCTYPE html>
@@ -104,8 +104,8 @@ frontend/
 </html>
 ```
 
-4. Change the  src="/src/app.jsx
+4. Change the src="/src/app.jsx
 
 **Note:** After including the bootstrap, the letter is as showing on the image below:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>

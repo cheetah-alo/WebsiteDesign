@@ -1,8 +1,10 @@
----
-description: codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
----
-
 # Publish the website on Vercel
+
+> codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
+
+***
+
+
 
 Publishing a project on Vercel is a straightforward process. Here's a step-by-step guide for beginners to deploy a website using Vercel:
 
@@ -52,6 +54,6 @@ Vercel will start building and deploying your project. You can monitor the progr
 
 Once the deployment is complete, Vercel will provide you with a unique URL where your website is live. You can access your website by clicking on this URL.
 
-## Project Deployed
+### Project Deployed
 
 {% embed url="https://codecripto-w2-to-w3-company-website-jackyb.vercel.app/" %}

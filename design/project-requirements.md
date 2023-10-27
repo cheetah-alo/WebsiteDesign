@@ -1,10 +1,8 @@
-# Design
+# Project Requirements
 
 > codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
 ***
-
-Here's a step-by-step guide for beginners to build a minimalist website for a company using Bootstrap 5 and React:
 
 ### Objective
 
@@ -29,3 +27,5 @@ Here a look of how is expected the website composition.
 7. Create the Services section.
 8. Create the Carousel component.
 9. Publish the website on GitHub and Vercel.
+
+##
