@@ -1,0 +1,68 @@
+{
+  "header": {
+    "name": "MyCompany",
+    "links": [
+      {
+        "text": "blog",
+        "link": "http://blog.com"
+      },
+      {
+        "text": "youtube",
+        "link": "http://youtube.com"
+      }
+    ]
+  },
+  "footer": [
+    {
+      "title": "Social",
+      "links": [
+        {
+          "title": "youtube",
+          "url": "http://youtube.com"
+        },
+        {
+          "title": "instagram",
+          "url": "http://instagram.com"
+        },
+        {
+          "title": "twitter",
+          "url": "http://twitter.com"
+        }
+      ]
+    },
+    {
+      "title": "About Us",
+      "links": [
+        {
+          "title": "History",
+          "url": "http://companyhistory.com"
+        },
+        {
+          "title": "Founders",
+          "url": "http://companyfounders.com"
+        },
+        {
+          "title": "Team",
+          "url": "http://companyteam.com"
+        }
+      ]
+    },
+    {
+      "title": "Help",
+      "links": [
+        {
+          "title": "Contact",
+          "url": "http://companyemail.com"
+        },
+        {
+          "title": "Privacy",
+          "url": "http://privacy.com"
+        },
+        {
+          "title": "Terms and Conditions",
+          "url": "http://termsandconditions.com"
+        }
+      ]
+    }
+  ]
+}
