@@ -2,6 +2,8 @@
 
 codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
+***
+
 ## Creating the Footer Component
 
 1. Visit the Bootstrap Carousel documentation page: [Bootstrap Carousel Documentation](https://getbootstrap.com/docs/5.3/components/carousel/)
@@ -112,6 +114,10 @@ export function Carousel() {
 
 
 ```
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-27 at 11.36.15 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+####
 
 #### Customize and Style
 

@@ -2,6 +2,8 @@
 
 codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
+***
+
 ## Create a React Project
 
 1. Open a terminal in your project directory.
@@ -74,7 +76,7 @@ frontend/
    \
    **Note:** Before including the bootstrap, the letter is as showing on the image below:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 3. Add the Bootstrap 5 code snippet to your `index.html,` select all the code before the closing `</body>` tag  and copy.
 
@@ -106,4 +108,4 @@ frontend/
 
 **Note:** After including the bootstrap, the letter is as showing on the image below:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>

@@ -2,6 +2,8 @@
 
 codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
+***
+
 ## Objective
 
 1. Create a minimalist website using the Bootstrap 5 framework.

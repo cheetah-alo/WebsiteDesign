@@ -2,6 +2,8 @@
 
 codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
+***
+
 ## Creating the Header Component&#x20;
 
 1. Find or create an SVG logo for your website. The following website is a good place to search:
@@ -40,7 +42,7 @@ export function Header() {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 4. Style the header with Bootstrap classes and add links for "Blog" and "Youtube."
 

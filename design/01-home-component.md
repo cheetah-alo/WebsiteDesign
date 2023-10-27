@@ -2,6 +2,8 @@
 
 codecripto | From Web2 to Web 3 | Project Web Design | by JackyB
 
+***
+
 ## Creating the Home Component
 
 1. Create a folder on the path /src called components
@@ -66,4 +68,4 @@ export function Home() {
 
 ```
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
